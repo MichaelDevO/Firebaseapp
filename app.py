@@ -5,14 +5,14 @@ from enum import Enum
 from firebase import Firebase
 
 config = {
-  "apiKey" : "AIzaSyA4Ya39dYNpYjCxcLgMNb6kwVixkjLLYEU",
-  "authDomain" : "simplernggame.firebaseapp.com",
-  "projectId" : "simplernggame",
-  "storageBucket" : "simplernggame.appspot.com",
-  "messagingSenderId" : "79591866349",
-  "appId" : "1:79591866349:web:28d383e4c25adec77971e4",
-  "measurementId" : "G-8Q5EYJFLTK",
-  "databaseURL" : "https://simplernggame-default-rtdb.europe-west1.firebasedatabase.app/"
+  "apiKey" : "",
+  "authDomain" : "",
+  "projectId" : "e",
+  "storageBucket" : "",
+  "messagingSenderId" : "",
+  "appId" : "",
+  "measurementId" : "",
+  "databaseURL" : ""
 }
 
 
